@@ -12,7 +12,7 @@ A simple Java program to calculate total marks, average, and assign grades based
 
 ## How to Run
 
-git clone https://github.com/your-username/Student-Grade-Calculator.git
+git clone https://github.com/Elaiyabharathi-P/CODSOFT-STUDENT-GRADE-CALCULATOR.git
 cd Student-Grade-Calculator
 javac StudentGrade.java
 java StudentGrade
